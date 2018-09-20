@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 /* This is a comment */
+=======
+
+#This is my second comment
+>>>>>>> Stashed changes
 
 import mysql.connector as mdb
 
