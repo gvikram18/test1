@@ -3,6 +3,7 @@
 =======
 
 #This is my second comment
+#This is my third comment
 >>>>>>> Stashed changes
 
 import mysql.connector as mdb
